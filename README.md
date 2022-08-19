@@ -1,0 +1,1 @@
+<centre> This code allows you to use Invision Community forums site with your resource as basic authenication for basic purposes. This is by no means "Good" or "Best" solution for this but will work for basic tasks it may be needed for.</centre>
