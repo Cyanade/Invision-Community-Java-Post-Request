@@ -1,1 +1,1 @@
-<centre> This code allows you to use Invision Community forums site with your java resource as basic authenication. This is by no means "Good" or "The Best" solution for this but will work for basic tasks it may be needed for. </centre>
+<centre> This code allows you to use Invision Community (https://invisioncommunity.com) forums site with your java resource as basic authenication for a product. This is by no means "Good" or "The Best" solution for this but will work for basic needs it may be needed for. </centre>
