@@ -1,1 +1,1 @@
-<centre> This code allows you to use Invision Community (https://invisioncommunity.com) forums site with your java resource as basic authenication for a product. This is by no means "Good" or "The Best" solution for this but will work for basic needs it may be needed for. </centre>
+<centre> This is a system to send a post request for Invision Community (https://invisioncommunity.com)'s fourms site. This is no means the best but will work for if you need it. You could also make the request inside of a CompletableFuture.</centre>
